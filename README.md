@@ -51,4 +51,4 @@ python train_PA.py
 
 ## Acknowledgement
 
-* This code is adapted from [UA-MT](https://github.com/yulequan/UA-MT), [DTC](https://github.com/HiLab-git/DTC.git) and [UniMatch](https://github.com/LiheYoung/UniMatch/tree/main/more-scenarios/medical) . .
+* This code is adapted from [UA-MT](https://github.com/yulequan/UA-MT), [DTC](https://github.com/HiLab-git/DTC.git) and [BCP](https://github.com/DeepMed-Lab-ECNU/BCP) . .
